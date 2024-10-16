@@ -1,6 +1,6 @@
 # Bem Vindo(a)!
 
-Me chamo Camila Jesus da Silva, sou estudante de Ciências da Computação com base em desenvolvimento Full-Stack pela Descomplica Faculdade Digital. 
+Me chamo Camila Jesus da Silva, tenho 19 anos e sou estudante de Ciências da Computação com base em desenvolvimento Full-Stack pela Descomplica Faculdade Digital. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilajesusdasilva)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilajdasilva/)
 
